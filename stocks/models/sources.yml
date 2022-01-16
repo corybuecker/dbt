@@ -1,0 +1,8 @@
+
+version: 2
+
+sources:
+  - name: stockbq
+    tables:
+      - name: raw_alpha_vantage
+      - name: raw_alpaca
